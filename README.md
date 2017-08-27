@@ -1,1 +1,1 @@
-# coursera-test
+# Repository with solutions.
