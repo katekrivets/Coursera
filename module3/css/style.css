@@ -1,0 +1,55 @@
+body {
+	font-size: 16px;
+	color: black;
+	background-image: url('../images/background.jpg');
+	background-size: cover;
+	background-color: grey;
+	font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+
+h1 {
+	margin-top: 10px;
+}
+
+header .navbar-brand {
+	font-weight: bold;
+	font-size: 1.5em;
+}
+ 
+ #nav-list a {
+ 	text-align: center;
+}
+
+.navbar-toggle {
+	border-radius: 2px;
+}
+/** END HEADER **/
+
+/** MAIN **/
+#page-heading {
+	font-size: 1.8em;
+}
+
+div.paragraph {
+	text-align:	justify;
+	padding: 10px 15px;
+	background-color: white;
+	margin-top: 15px;
+	
+}
+
+p {
+	text-indent: 40px;
+}
+
+#Chicken, #Sushi, #Beef {
+	font-size:1.2em;
+	display: block;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+/** END MAIN **/
